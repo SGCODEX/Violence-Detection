@@ -11,7 +11,8 @@ This repository includes the trained model file. Due to file size limitations, t
 ## Files Uploaded
 
 1. Model_Training.ipynb - This file uses a pretrained RESNET64 model from the fastai library train it on a custom dataset. Its performance is evaluated with various metrics, including plotting the confusion matrix and loss.
-2. 
+2. Violence_Detection_Demo_with_webcam.ipynb - This file demonstrates the trained model's performance on sample images and through a webcam feed. It uses Twilio API to send an SMS if violence is detected.
+3. Violence_Detection_with Tello_Drone_Demo.ipynb - This file is used to control the connected Tello drone for showcasing the violence detection model in action.
 
 ## Dataset
 
