@@ -24,6 +24,10 @@ The dataset used for training this violence detection model is a custom collecti
 - Images captured under various types of lighting conditions to enhance model robustness.
 - Images from different perspectives, including CCTV cameras, drones, webcams, etc., to simulate real-world scenarios and improve generalization.
 
+## Interview
+
+- Watch our official interview with Intel AI4Youth team here: https://youtu.be/mM_sx9I8EcQ?si=yNSUsJBDc-L5B2lW
+
 ## Contributors
 - Shreyal Gupta
 - Shivam Gupta
